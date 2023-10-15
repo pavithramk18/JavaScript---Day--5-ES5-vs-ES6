@@ -27,11 +27,11 @@ request.onload=function()
         console.log(a.capital);
     }
 
-//  Iteration using for of loop and diplaying the capital
+//  Iteration using for of loop and diplaying the
 
 
 
-//Iteration using for each loop and diplaying the capital
+//Iteration using for each loop and diplaying the 
 
 
 }
